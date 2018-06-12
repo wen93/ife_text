@@ -1,0 +1,42 @@
+*{margin:0;padding:0;}
+body{
+	
+}
+.content{
+	width: 960px;
+	height: auto;
+	margin: 0 auto;
+	border: 1px solid;
+	overflow:hidden;
+}
+.info{
+	width: 780px;
+	display: inline;
+	float: right;
+}
+.jianli{
+	float: left;
+	background: lightblue;
+	width: 150px;
+	margin-bottom:-9999px;  
+    padding-bottom:9999px;  
+	text-align: center;
+	line-height: 100px;
+}
+h1{
+	color: white;
+}
+h1,h2{
+	font-family: 微软雅黑;
+}
+p span{
+	font-weight: bold;
+	display: block;
+}
+p a{
+	font-weight: bold;
+}
+h2,p{
+	height: 50px;
+	padding: 5px;
+}

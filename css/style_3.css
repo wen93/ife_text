@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+}
+h1,h2{
+	font-family: simhei;
+}
+.content{
+	width: 960px;
+	margin: 0 auto;
+	border: 1px solid lightgray;
+}
+h1{
+	height: 50px;
+	background: lightslategrey;
+	color: white;
+	line-height: 50px;
+	padding-left: 10px;
+}
+p{
+	line-height: 5px;
+}
+p span{
+	font-weight: bold;
+}
+p a{
+	font-weight: bold;
+}
+.ge{
+	padding: 0;
+	height: 100px;
+	border: 1px solid lightgray;
+}
+.ge h2{
+	background: lightgray;
+	float: left;
+	width: 80px;
+	height: 99px;
+	margin-right: 10px;
+	
+	line-height: 100px;
+	text-align: center;
+}
+.ge p{
+	padding: 10px;
+}
